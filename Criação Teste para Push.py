@@ -1,4 +1,3 @@
 print('Opa')
 print('Opa dnv')
-print('testando'
-      '')
+print('testando')
