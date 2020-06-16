@@ -1,0 +1,4 @@
+Nome: Gu        Idade: 18
+Nome: Si        Idade: 46        
+Nome: Fe        Idade: 50        
+Nome: Gege      Idade: 22        

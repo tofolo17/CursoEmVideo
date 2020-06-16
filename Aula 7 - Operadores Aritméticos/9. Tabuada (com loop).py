@@ -1,0 +1,11 @@
+n = int(input("Digite um número inteiro e veja sua tabuada: "))
+m1 = int(input("Valor inicial da multiplicação: "))
+m2 = int(input("Valor final da multiplicação: "))
+i = 0
+print('=' * 12)
+while (m1 + i) <= m2:
+    f = m1 + i
+    r = n * f
+    i = i + 1
+    print('{} x {:2} = {}'.format(n, f, r))
+print('=' * 12)
